@@ -1,0 +1,5 @@
+file_to_read = open("text.txt", "r")
+output = file_to_read.readlines()
+file_to_write = open("text_two.txt", "w")
+file_to_write.writelines(output)
+print(output)
