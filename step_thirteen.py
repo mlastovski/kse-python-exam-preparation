@@ -4,5 +4,3 @@ def return_str_from_list(num_list):
     print(output)
 
 return_str_from_list(num_list=[1,2,3,4,5,6,777,888,9999,1020])
-
-

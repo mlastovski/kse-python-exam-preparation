@@ -1,7 +1,6 @@
 import sys
 
 day_number = sys.argv[1]
-
 if int(day_number):
     day_number = int(day_number)
     if day_number <= 7:
